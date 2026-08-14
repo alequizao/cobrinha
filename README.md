@@ -16,7 +16,7 @@ de tempo real em Node.js com WebSocket.
 
 ## 📸 Tela
 
-[![Cobrinha — jogo da cobrinha multiplayer online no navegador, desenvolvido por Alex Junior (alequizao)](https://image.thum.io/get/width/700/https://publishdev.com.br/cobrinha/)](https://publishdev.com.br/cobrinha/)
+[![Cobrinha — jogo da cobrinha multiplayer online no navegador, desenvolvido por Alex Junior (alequizao)](screenshots/tela-principal.png)](https://publishdev.com.br/cobrinha/)
 
 ## 🧱 Stack
 
