@@ -1,0 +1,28 @@
+# --- Credenciais ---
+config.php
+.env
+.env.*
+!.env.example
+servidor/.env
+servidor/node_modules/
+
+# --- Dependencias ---
+node_modules/
+vendor/
+
+# --- Dados / dumps ---
+*.sql
+uploads/
+
+# --- Logs e temporarios ---
+*.log
+logs/
+cache/
+tmp/
+*.bak
+*.bak-*
+*.tar.gz
+
+# --- Sistema ---
+.DS_Store
+Thumbs.db
