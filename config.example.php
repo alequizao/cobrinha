@@ -1,4 +1,8 @@
 <?php
+/*
+ * Cobrinha · Desenvolvido por Alequizao <alequizao.dev@gmail.com>
+ * https://github.com/alequizao · © 2026 Alequizao. Todos os direitos reservados.
+ */
 // Configuração geral — Cobrinha
 declare(strict_types=1);
 

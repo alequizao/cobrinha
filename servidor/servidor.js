@@ -1,3 +1,7 @@
+/*
+ * Cobrinha · Desenvolvido por Alequizao <alequizao.dev@gmail.com>
+ * https://github.com/alequizao · © 2026 Alequizao. Todos os direitos reservados.
+ */
 /**
  * Cobrinha — servidor da arena online (autoritativo)
  * Todo mundo que entra cai na MESMA partida. O servidor simula tudo;

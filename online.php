@@ -1,4 +1,8 @@
 <?php
+/*
+ * Cobrinha · Desenvolvido por Alequizao <alequizao.dev@gmail.com>
+ * https://github.com/alequizao · © 2026 Alequizao. Todos os direitos reservados.
+ */
 // Snake.io — arena ONLINE: todo mundo na mesma partida, servidor autoritativo
 require __DIR__ . '/config.php';
 $u = exigirLogin();

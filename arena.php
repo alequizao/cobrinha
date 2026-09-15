@@ -1,4 +1,8 @@
 <?php
+/*
+ * Cobrinha · Desenvolvido por Alequizao <alequizao.dev@gmail.com>
+ * https://github.com/alequizao · © 2026 Alequizao. Todos os direitos reservados.
+ */
 // Modo Arena — cobra contra cobras rivais em mundo aberto (estilo .io)
 require __DIR__ . '/config.php';
 $u = exigirLogin();
